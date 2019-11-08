@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">激情裸聊</string>
+    <string name="title">(Android WebSockets Chat App)</string>
+    <string name="author_name">寂寞的男人</string>
+    <string name="author_url">www.xxxxxx.com</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join">JOIN</string>
+    <string name="btn_send">Send</string>
+</resources>
